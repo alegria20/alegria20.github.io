@@ -1,7 +1,7 @@
 ---
 layout: default
 title: api
-parent: home
+parent: Home
 ---
 
 Hi
